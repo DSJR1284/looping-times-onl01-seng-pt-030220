@@ -1,8 +1,8 @@
 def using_times
- times ="Wingardium Leviosa
+ phrase ="Wingardium Leviosa"
   7.times do 
-    puts times 
+    puts phrase 
   end 
-
+end
 
 
